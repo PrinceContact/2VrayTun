@@ -36,4 +36,11 @@
 ## 🎥 ПРЕВЬЮ (КАК ЭТО ВЫГЛЯДИТ)
 
 <div align="center">
-  
+  <img width="922" height="666" alt="image" src="https://github.com/user-attachments/assets/837dd73f-674f-4678-8099-dadf3227c54b" />
+
+Key generator
+<img width="918" height="612" alt="image" src="https://github.com/user-attachments/assets/0af9d7eb-46ba-47c2-a67e-05888c046454" />
+
+Включеный впн (протоколировние Vray)
+<img width="920" height="671" alt="image" src="https://github.com/user-attachments/assets/10a88207-5511-43b6-b0e0-000b9e437623" />
+
